@@ -4,7 +4,7 @@
   "description": "Template for TypeScript library",
   "author": "Mikhail Dezhurko (https://github.com/mdezh)",
   "license": "MIT",
-  "repository": "git@github.com:mdezh/ts-lib-template.git",
+  "repository": "github:mdezh/ts-lib-template.git",
   "keywords": [
     "ts",
     "typescript"
